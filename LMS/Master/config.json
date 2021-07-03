@@ -1,0 +1,38 @@
+{
+    "path": "C:\\Users\\10PRO\\Desktop\\Eclipse\\Selenium\\webdriver\\chromedriver.exe",
+    "websiteUrl": "https://lms.testbook.com/manage/questions",
+    "dataFile": "C:\\Users\\10PRO\\Desktop\\Python Programs\\Currentaffairs.json",
+    "docxFile": "C:\\Users\\10PRO\\Desktop\\Python Programs\\cheek-master\\data\\test-new.docx",
+    "xpathFile": "C:\\Users\\10PRO\\Desktop\\Python Programs\\cheek-master\\data\\xpathFile.js",
+    "options": [
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[1]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[2]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[3]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[4]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[5]/div/div[2]/div"
+],
+    "checkBoxes": [
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[1]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[2]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[3]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[4]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[5]/div/div[1]/input"
+],
+
+    "hindioptions" : [
+	"/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[1]/div/div[2]/div",
+	"/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[2]/div/div[2]/div",
+	"/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[3]/div/div[2]/div",
+	"/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[4]/div/div[2]/div",     
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[5]/div/div[2]/div"
+],    
+    "solution": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[6]/div/div[2]/div",
+    "question": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[1]/div[2]/div",
+    "hindiquestion": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[1]/div/div[2]/div",	
+    "addOption": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[1]/ul/li/a",
+    "addButton": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[1]/button",
+    "closeButton": "/html/body/div[{target}]/div/div/div[3]/div/div[2]/button",
+    "saveButton": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[3]/button",
+    "hindisolution": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div[2]/ul/div[2]/li[6]/div/div[2]/div"
+}
+   

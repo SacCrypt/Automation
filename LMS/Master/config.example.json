@@ -1,0 +1,29 @@
+{
+    "path": "${PROJECT_ROOT}/webdriver/chromedriver",
+    "websiteUrl": "https://lms.testbook.com/manage/questions",
+    "dataFile": "${PROJECT_ROOT}/data/test-new.json",
+    "docxFile": "${PROJECT_ROOT}/data/test-new.docx",
+    "HTMLFile": "${PROJECT_ROOT}/data/test-new.html",
+    "textFile": "${PROJECT_ROOT}/data/test-new.txt",
+    "xpathFile": "${PROJECT_ROOT}/data/xpathFile.js",
+    "options": [
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[1]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[2]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[3]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[4]/div/div[2]/div",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[5]/div/div[2]/div"
+    ],
+    "checkBoxes": [
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[1]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[2]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[3]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[4]/div/div[1]/input",
+        "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[5]/div/div[1]/input"
+    ],
+    "solution": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[2]/li[6]/div/div[2]/div",
+    "question": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[1]/div/ul/div[1]/div[2]/div",
+    "addOption": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[1]/ul/li/a",
+    "addButton": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[1]/button",
+    "closeButton": "/html/body/div[{target}]/div/div/div[3]/div/div[2]/button",
+    "saveButton": "/html/body/div[{target}]/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div/div[3]/button"
+}

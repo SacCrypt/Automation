@@ -1,0 +1,7 @@
+selenium 
+pyotp
+webdriver
+webdriver-manager
+beautifulsoup4
+docx
+mammoth
